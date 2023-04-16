@@ -1,0 +1,46 @@
+{
+  "version": "1.0",
+  "caps": [
+    {
+      "type": "text",
+      "name": "automationName",
+      "value": "uiautomator2"
+    },
+    {
+      "type": "text",
+      "name": "platformName",
+      "value": "Android"
+    },
+    {
+      "type": "text",
+      "name": "deviceName",
+      "value": "Pixel_Pro_6_API_33"
+    },
+    {
+      "type": "text",
+      "name": "app",
+      "value": "C:\\s\\repo\\appium\\ApiDemos-debug.apk"
+    }
+  ],
+  "server": {
+    "local": {},
+    "remote": {},
+    "sauce": {
+      "dataCenter": "us-west-1"
+    },
+    "headspin": {},
+    "browserstack": {},
+    "lambdatest": {},
+    "advanced": {},
+    "bitbar": {},
+    "kobiton": {},
+    "perfecto": {},
+    "pcloudy": {},
+    "testingbot": {},
+    "experitest": {},
+    "roboticmobi": {},
+    "remotetestkit": {}
+  },
+  "serverType": "remote",
+  "visibleProviders": []
+}
